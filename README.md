@@ -1,6 +1,6 @@
 <h1 align="center>👋 Hi, I’m Md Afzal Khan</h1>
   <h3>👀 I’m interested in ...Web developement</h3>
- <img align="right" width="300" src="https://github.com/khanAfzal17/"
+ <img align="right" width="300" src="https://github.com/khanAfzal17/khanAfzal/blob/main/download.png"
 - 🌱 I’m currently learning ...Full stack web development
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...afzalk8881212@gmail.com
