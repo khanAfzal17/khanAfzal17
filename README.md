@@ -1,11 +1,18 @@
-<h1 align="center>👋 Hi, I’m Md Afzal Khan</h1>
-  <h3>👀 I’m interested in ...Web developement</h3>
- <img align="right" width="300" src="https://github.com/khanAfzal17/khanAfzal/blob/main/download.png"
-- 🌱 I’m currently learning ...Full stack web development
-- 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...afzalk8881212@gmail.com
+<h1 align="center">Hi 👋, I'm Md Afzal Khan</h1>
+<h3 align="center">A passionate UI Full-Stack Developer</h3>
 
-<!---
-khanAfzal17/khanAfzal17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" width="300" src="https://github.com/Tipu30/Tipu30/assets/92074859/852e3969-7f42-4c5b-b2d2-db3534491368">
+
+- Hi, I'm currently working on **Smart shopping web app**
+
+- 🌱 I’m currently learning **Springboot**
+
+- 👯 I’m looking to collaborate on **Front end projects**
+
+- 💬 Ask me about **JavaScript, React, Java**
+
+- 📫 How to reach me **tipukhan2315@gmail.com**
+
+
+
+
